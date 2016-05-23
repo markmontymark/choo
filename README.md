@@ -404,7 +404,7 @@ for the past year. I originally used `virtual-dom` with `virtual-app` and
 `wayfarer` where now it's `yo-yo` with `send-action` and `sheet-router`. The
 main benefit of using `choo` over these technologies separately is that it
 becomes easier for teams to pick up and gather around. The code base for `choo`
-itself is super petite (`~150` LOC) and mostly acts to enforce structure around
+itself is super petite (`~200` LOC) and mostly acts to enforce structure around
 some excellent npm packages. This is my take on modular frameworks; I hope
 you'll find it pleasant.
 
